@@ -1,0 +1,12 @@
+#include <iostream>
+#include <ctime>
+#include <cstdlib>
+
+using namespace std;
+
+int main() {
+    srand(time(0));
+    int n = rand() % 20; // from 0 to 20 right now change the last number to change up to which number it randomly generates
+    cout << n;
+    // do an if for example if n = 4 cout "whats 2+2" or whatever question we pick to do
+}
