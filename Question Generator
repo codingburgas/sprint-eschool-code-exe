@@ -24,7 +24,7 @@ void question1(string answer) {
 
 int main() {
   srand(time(0));
-  int n = rand() % 20; // from 0 to 20 right now change the last number to
+  int n = rand() % 19 + 1; // from 0 to 20 right now change the last number to
                        // change up to which number it randomly generates
   cout << "Randomly picked question Good luck :) " << endl;
   cout << "Question ID = " << n << endl;
