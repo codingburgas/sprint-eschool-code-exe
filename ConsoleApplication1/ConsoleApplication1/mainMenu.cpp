@@ -8,7 +8,7 @@
 using namespace std;
 
 void mainMenu() {
-    system("clear");
+    system("cls");
 
     cout << "==============================" << endl;
     cout << "         WELCOME TO THE QUIZ  " << endl;
@@ -38,12 +38,12 @@ void mainMenu() {
         break;
 
     case 2:
-        cout << "\n==== QUIZ INSTRUCTIONS ====" << endl;
+        cout << "==== QUIZ INSTRUCTIONS ====" << endl;
         cout << "1. You will be asked a random question." << endl;
         cout << "2. Type the correct answer (A, B, C, or D) and press Enter." << endl;
         cout << "3. You will receive feedback based on your answer." << endl;
         cout << "4. Try your best to answer and have fun while learning!" << endl;
-        cout << "\nTo start the quiz, press 5: ";
+        cout << "To start the quiz, press 5: ";
 
         int startQuizChoice;
         cin >> startQuizChoice;
@@ -59,7 +59,7 @@ void mainMenu() {
         break;
 
     case 3:
-        cout << "\nThank you for playing! Exiting the quiz... Goodbye!" << endl;
+        cout << "Thank you for playing! Exiting the quiz... Goodbye!" << endl;
         break;
 
     default:

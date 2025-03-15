@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -72,10 +72,6 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "mainMenu.cpp",
@@ -83,7 +79,7 @@
               "RelativeDocumentMoniker": "ConsoleApplication1\\mainMenu.cpp",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication1\\ConsoleApplication1\\mainMenu.cpp",
               "RelativeToolTip": "ConsoleApplication1\\mainMenu.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-14T15:44:24.53Z",
               "EditorCaption": ""
