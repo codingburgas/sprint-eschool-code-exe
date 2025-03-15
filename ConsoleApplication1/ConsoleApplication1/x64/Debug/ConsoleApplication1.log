@@ -1,5 +1,9 @@
-﻿  questGen.cpp
+﻿  main.cpp
+  mainMenu.cpp
+  questFunct.cpp
+  questGen.cpp
 C:\Users\vikto\source\repos\sprint-eschool-code-exe\ConsoleApplication1\ConsoleApplication1\questGen.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
   ConsoleApplication1.vcxproj -> C:\Users\vikto\Source\Repos\sprint-eschool-code-exe\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
