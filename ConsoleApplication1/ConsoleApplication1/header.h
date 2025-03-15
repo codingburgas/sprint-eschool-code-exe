@@ -14,3 +14,4 @@ void question9(string answer);
 void question10(string answer);
 
 void question_Generator();
+void mainMenu();

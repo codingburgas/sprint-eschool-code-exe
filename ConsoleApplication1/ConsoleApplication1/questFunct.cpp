@@ -197,7 +197,7 @@ void question11(string answer)
     cout << "C) " << endl;
     cout << "D) " << endl;
     getline(cin, answer);
-    if (answer == "" || answer == "") {
+    if (answer == "tgrtgr" || answer == "rgttr") {
         cout << "Correct answer :)";
     }
     else {
@@ -215,7 +215,7 @@ void question12(string answer)
     cout << "C) " << endl;
     cout << "D) " << endl;
     getline(cin, answer);
-    if (answer == "" || answer == "") {
+    if (answer == "gtgr" || answer == "rgtr") {
         cout << "Correct answer :)";
     }
     else {
