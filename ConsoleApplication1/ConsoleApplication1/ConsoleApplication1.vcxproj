@@ -129,8 +129,12 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mainMenu.cpp" />
+    <ClCompile Include="questFunctBiology.cpp" />
+    <ClCompile Include="questFunctHistory.cpp" />
     <ClCompile Include="questGen.cpp" />
     <ClCompile Include="questFunct.cpp" />
+    <ClCompile Include="questGenBiology.cpp" />
+    <ClCompile Include="questGenHistory.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h" />
