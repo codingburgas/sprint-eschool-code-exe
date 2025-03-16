@@ -10,7 +10,8 @@ using namespace std;
 void question_Generator()
 {
     srand(time(0));
-    int n = rand() % 19 + 1; // from 0 to 20 right now change the last number to
+    int n = rand() % 10 + 1; // Generates a number between 1 and 10
+    // from 0 to 20 right now change the last number to
     // change up to which number it randomly generates
     cout << "Randomly picked question Good luck :) " << endl;
     cout << "Question ID = " << n << endl;
@@ -20,43 +21,43 @@ void question_Generator()
     switch (n)
     {
     case 1:
-        question1(answer);
+        question1();
         break;
 
     case 2:
-        question2(answer);
+        question2();
         break;
 
     case 3:
-        question3(answer);
+        question3();
         break;
 
     case 4:
-        question4(answer);
+        question4();
         break;
 
     case 5:
-        question5(answer);
+        question5();
         break;
 
     case 6:
-        question6(answer);
+        question6();
         break;
 
     case 7:
-        question7(answer);
+        question7();
         break;
 
     case 8:
-        question8(answer);
+        question8();
         break;
 
     case 9:
-        question9(answer);
+        question9();
         break;
 
     case 10:
-        question10(answer);
+        question10();
         break;
     }
 }

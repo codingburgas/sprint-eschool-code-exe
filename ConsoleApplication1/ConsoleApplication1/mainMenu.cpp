@@ -23,18 +23,29 @@ void mainMenu() {
     int firstChoice;
     cin >> firstChoice;
 
-    if (cin.fail()) {
-        cin.clear();
-        cin.ignore(numeric_limits<streamsize>::max(), '\n');
-        cout << "Invalid input! Please enter a number between 1 and 3." << endl;
-        return mainMenu();
-    }
-
     switch (firstChoice)
     {
     case 1:
-        cout << "Starting quiz..." << endl;
-        question_Generator();
+        int quizChoice;
+        cout << "Pick a quiz subject." << endl;
+		cout << "1. Bulgarian and Literature" << endl;
+        cout << "2. Biology" << endl;
+        cout << "3. History" << endl;
+		cin >> quizChoice;
+        if (quizChoice == 1) {
+            question_Generator();
+        }
+        
+		else if (quizChoice == 2) {
+			question_Generator(); // biology questions when made
+		}
+		else if (quizChoice == 3) {
+			question_Generator(); // history questions when made
+		}
+		else {
+			cout << "Invalid option. Returning to the main menu..." << endl;
+			mainMenu();
+		}
         break;
 
     case 2:

@@ -7,7 +7,7 @@
 
 using namespace std;
 
-void question1(string answer)
+void question1()
 {
     cout << "What is the main reason for the beginning of the Bulgarian Revival?" << endl;
     cout << "====================================" << endl;
@@ -16,7 +16,8 @@ void question1(string answer)
     cout << "B) Revival of the economy and social life" << endl;
     cout << "C) Expansion of Greek influence" << endl;
     cout << "D) Foreign intervention from Western countries" << endl;
-    getline(cin, answer);
+    string answer;
+	cin >> answer;
     if (answer == "B" || answer == "b") {
         cout << "Correct answer :)";
     }
@@ -25,7 +26,7 @@ void question1(string answer)
     }
 }
 
-void question2(string answer)
+void question2()
 {
     cout << "Which of the following is not a characteristic feature of the Bulgarian Revival?" << endl;
     cout << "====================================" << endl;
@@ -34,7 +35,8 @@ void question2(string answer)
     cout << "B) Creation of a Bulgarian national identity" << endl;
     cout << "C) Subordination to the Greek Patriarchate" << endl;
     cout << "D) Development of literature and education" << endl;
-    getline(cin, answer);
+    string answer;
+    cin >> answer;
     if (answer == "C" || answer == "c") {
         cout << "Correct answer :)";
     }
@@ -43,7 +45,7 @@ void question2(string answer)
     }
 }
 
-void question3(string answer)
+void question3()
 {
     cout << "What are the main periods of the Bulgarian Revival according to the text?" << endl;
     cout << "====================================" << endl;
@@ -52,7 +54,8 @@ void question3(string answer)
     cout << "B) Three periods – early, mature, and late Revival" << endl;
     cout << "C) Only one period, which continues until the Liberation" << endl;
     cout << "D) Four periods – medieval, early, mature, and late Revival" << endl;
-    getline(cin, answer);
+    string answer;
+    cin >> answer;
     if (answer == "B" || answer == "b") {
         cout << "Correct answer :)";
     }
@@ -61,7 +64,7 @@ void question3(string answer)
     }
 }
 
-void question4(string answer)
+void question4()
 {
     cout << "Which event marks the end of the Bulgarian Revival?" << endl;
     cout << "====================================" << endl;
@@ -70,7 +73,8 @@ void question4(string answer)
     cout << "B) The Liberation of Bulgaria in 1878" << endl;
     cout << "C) The beginning of the Crimean War" << endl;
     cout << "D) The proclamation of the Bulgarian Exarchate" << endl;
-    getline(cin, answer);
+    string answer;
+    cin >> answer;
     if (answer == "B" || answer == "b") {
         cout << "Correct answer :)";
     }
@@ -79,7 +83,7 @@ void question4(string answer)
     }
 }
 
-void question5(string answer)
+void question5()
 {
     cout << "What is the main role of literature during the Bulgarian Revival?" << endl;
     cout << "====================================" << endl;
@@ -88,7 +92,8 @@ void question5(string answer)
     cout << "B) To entertain readers with fictional works" << endl;
     cout << "C) To form national consciousness and fighting spirit" << endl;
     cout << "D) To spread myths and legends" << endl;
-    getline(cin, answer);
+    string answer;
+    cin >> answer;
     if (answer == "C" || answer == "c") {
         cout << "Correct answer :)";
     }
@@ -97,7 +102,7 @@ void question5(string answer)
     }
 }
 
-void question6(string answer)
+void question6()
 {
     cout << "What is the connection between the Bulgarian Revival and the European Enlightenment?" << endl;
     cout << "====================================" << endl;
@@ -106,7 +111,8 @@ void question6(string answer)
     cout << "B) The two movements are independent of each other" << endl;
     cout << "C) The ideas of the Enlightenment stimulate the development of the Revival" << endl;
     cout << "D) The Enlightenment has no influence on the Bulgarian Revival" << endl;
-    getline(cin, answer);
+    string answer;
+    cin >> answer;
     if (answer == "C" || answer == "c") {
         cout << "Correct answer :)";
     }
@@ -115,7 +121,7 @@ void question6(string answer)
     }
 }
 
-void question7(string answer)
+void question7()
 {
     cout << "Which of the following personalities is not associated with the Bulgarian Revival?" << endl;
     cout << "====================================" << endl;
@@ -124,7 +130,8 @@ void question7(string answer)
     cout << "B) Paisiy Hilendarski" << endl;
     cout << "C) Elin Pelin" << endl;
     cout << "D) Lyuben Karavelov" << endl;
-    getline(cin, answer);
+    string answer;
+    cin >> answer;
     if (answer == "C" || answer == "c") {
         cout << "Correct answer :)";
     }
@@ -133,7 +140,7 @@ void question7(string answer)
     }
 }
 
-void question8(string answer)
+void question8()
 {
     cout << "What is the main contribution of Paisiy Hilendarski?" << endl;
     cout << "====================================" << endl;
@@ -142,7 +149,8 @@ void question8(string answer)
     cout << "B) Creating Bulgarian schools" << endl;
     cout << "C) Writing \"Slavonic-Bulgarian History\"" << endl;
     cout << "D) Political activity in Russia" << endl;
-    getline(cin, answer);
+    string answer;
+    cin >> answer;
     if (answer == "C" || answer == "c") {
         cout << "Correct answer :)";
     }
@@ -151,7 +159,7 @@ void question8(string answer)
     }
 }
 
-void question9(string answer)
+void question9()
 {
     cout << "What is the main characteristic of Revival literature?" << endl;
     cout << "====================================" << endl;
@@ -160,7 +168,8 @@ void question9(string answer)
     cout << "B) It reflects the struggle for national consciousness and freedom" << endl;
     cout << "C) It entirely follows Western European literary models" << endl;
     cout << "D) It consists only of religious texts" << endl;
-    getline(cin, answer);
+    string answer;
+    cin >> answer;
     if (answer == "B" || answer == "b") {
         cout << "Correct answer :)";
     }
@@ -169,7 +178,7 @@ void question9(string answer)
     }
 }
 
-void question10(string answer)
+void question10()
 {
     cout << "What is the role of \"Slavonic-Bulgarian History\" for the Bulgarian Revival?" << endl;
     cout << "====================================" << endl;
@@ -178,44 +187,9 @@ void question10(string answer)
     cout << "B) It stimulates national consciousness and pride" << endl;
     cout << "C) It develops modern philosophical ideas" << endl;
     cout << "D) It proves the superiority of Western European culture" << endl;
-    getline(cin, answer);
+    string answer;
+    cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
-    }
-    else {
-        cout << "Wrong answer :(";
-    }
-}
-
-void question11(string answer)
-{
-    cout << "" << endl;
-    cout << "====================================" << endl;
-    cout << "Choose an answer: " << endl;
-    cout << "A) " << endl;
-    cout << "B) " << endl;
-    cout << "C) " << endl;
-    cout << "D) " << endl;
-    getline(cin, answer);
-    if (answer == "tgrtgr" || answer == "rgttr") {
-        cout << "Correct answer :)";
-    }
-    else {
-        cout << "Wrong answer :(";
-    }
-}
-
-void question12(string answer)
-{
-    cout << "" << endl;
-    cout << "====================================" << endl;
-    cout << "Choose an answer: " << endl;
-    cout << "A) " << endl;
-    cout << "B) " << endl;
-    cout << "C) " << endl;
-    cout << "D) " << endl;
-    getline(cin, answer);
-    if (answer == "gtgr" || answer == "rgtr") {
         cout << "Correct answer :)";
     }
     else {
