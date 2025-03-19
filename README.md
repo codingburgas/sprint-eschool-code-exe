@@ -5,9 +5,7 @@
 - [Our Coders](#our-coders)
 - [Logo](#logo)
 - [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Contact](#contact)
+
 
 ## About us 👋
 Brain picker is a program with tests in Bulgarian language and literature, history, and biology to test knowledge.
@@ -25,11 +23,3 @@ Brain picker is a program with tests in Bulgarian language and literature, histo
 ## Usage
 Instructions on how to use the software, including installation steps, configuration, and examples.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-Contributions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
-
-## Contact
-If you have any questions, please contact us at [email@example.com](mailto:email@example.com).
