@@ -10,14 +10,14 @@ using namespace std;
 void mainMenu() {
     system("cls");
 
-    cout << "==============================" << endl;
-    cout << "         WELCOME TO THE QUIZ  " << endl;
-    cout << "==============================" << endl;
-    cout << "Please choose one of the following options:" << endl;
-    cout << "1. Start Quiz" << endl;
-    cout << "2. View Instructions" << endl;
-    cout << "3. Exit" << endl;
-    cout << "==============================" << endl;
+    cout << "|============================================|" << endl;
+    cout << "|          WELCOME TO THE QUIZ               |" << endl;
+    cout << "|   ================================         |" << endl;
+    cout << "|Please choose one of the following options: |" << endl;
+    cout << "|      1. Start Quiz                         |" << endl;
+    cout << "|       2. View Instructions                 |" << endl;
+    cout << "|        3. Exit                             |" << endl;
+    cout << "|   ================================         |" << endl;
     cout << "Enter your choice (1, 2, or 3): ";
 
     int firstChoice;

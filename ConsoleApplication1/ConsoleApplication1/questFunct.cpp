@@ -196,3 +196,193 @@ void question10()
         cout << "Wrong answer :(";
     }
 }
+
+void question11()
+{
+    cout << "Who is the author of the novel \"Under the Yoke\"?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) Ivan Vazov" << endl;
+    cout << "B) Hristo Botev" << endl;
+    cout << "C) Aleko Konstantinov" << endl;
+    cout << "D) Elin Pelin" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "A" || answer == "a") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+void question12()
+{
+    cout << "Which literary work is considered the first Bulgarian novel?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) \"Bay Ganyo\"" << endl;
+    cout << "B) \"Under the Yoke\"" << endl;
+    cout << "C) \"To Chicago and Back\"" << endl;
+    cout << "D) \"Nemili-Nedragi\"" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "B" || answer == "b") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+void question13()
+{
+    cout << "Which Bulgarian poet wrote \"My Prayer\"?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) Ivan Vazov" << endl;
+    cout << "B) Hristo Botev" << endl;
+    cout << "C) Peyo Yavorov" << endl;
+    cout << "D) Dimcho Debelyanov" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "B" || answer == "b") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+void question14()
+{
+    cout << "Who wrote the satirical book \"Bay Ganyo\"?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) Ivan Vazov" << endl;
+    cout << "B) Hristo Botev" << endl;
+    cout << "C) Aleko Konstantinov" << endl;
+    cout << "D) Peyo Yavorov" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "C" || answer == "c") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+void question15()
+{
+    cout << "Which work by Peyo Yavorov is dedicated to his beloved Lora Karavelova?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) \"Night\" " << endl;
+    cout << "B) \"Two Beautiful Eyes\" " << endl;
+    cout << "C) \"Armenians\" " << endl;
+    cout << "D) \"To My Brother\" " << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "B" || answer == "b") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+void question16()
+{
+    cout << "What is the genre of \"Nemili-Nedragi\" by Ivan Vazov?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) Novel" << endl;
+    cout << "B) Short story" << endl;
+    cout << "C) Play" << endl;
+    cout << "D) Poem" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "C" || answer == "c") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+void question17()
+{
+    cout << "What is the main theme of Hristo Botev's poetry?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) Love and personal experiences" << endl;
+    cout << "B) The struggle for freedom and national identity" << endl;
+    cout << "C) The beauty of Bulgarian nature" << endl;
+    cout << "D) Everyday life of common people" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "B" || answer == "b") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+void question18()
+{
+    cout << "Which of the following is a characteristic of the Bulgarian Revival language?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) Use of Church Slavonic forms" << endl;
+    cout << "B) Introduction of many foreign words" << endl;
+    cout << "C) Simplification and modernization of grammar" << endl;
+    cout << "D) Writing only in dialects" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "C" || answer == "c") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+void question19()
+{
+    cout << "Who wrote the short story collection \"Pizho and Penda\"?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) Elin Pelin" << endl;
+    cout << "B) Yordan Yovkov" << endl;
+    cout << "C) Ivan Vazov" << endl;
+    cout << "D) Aleko Konstantinov" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "A" || answer == "a") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+void question20()
+{
+    cout << "Which of the following statements about \"Under the Yoke\" is true?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) It describes events during the Russo-Turkish War" << endl;
+    cout << "B) It is a memoir of Ivan Vazov's personal experiences" << endl;
+    cout << "C) It depicts the April Uprising of 1876" << endl;
+    cout << "D) It is written entirely in verse" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "C" || answer == "c") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}

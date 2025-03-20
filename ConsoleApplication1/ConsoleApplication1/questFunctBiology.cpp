@@ -9,13 +9,13 @@ using namespace std;
 
 void question1Biology()
 {
-    cout << "What is the main reason for the beginning of the Bulgarian Revival?" << endl;
+    cout << "What is the basic unit of life?" << endl;
     cout << "====================================" << endl;
     cout << "Choose an answer: " << endl;
-    cout << "A) Strengthening of Ottoman rule" << endl;
-    cout << "B) Revival of the economy and social life" << endl;
-    cout << "C) Expansion of Greek influence" << endl;
-    cout << "D) Foreign intervention from Western countries" << endl;
+    cout << "A) Atom" << endl;
+    cout << "B) Cell" << endl;
+    cout << "C) Tissue" << endl;
+    cout << "D) Organ" << endl;
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
@@ -28,13 +28,13 @@ void question1Biology()
 
 void question2Biology()
 {
-    cout << "Which of the following is not a characteristic feature of the Bulgarian Revival?" << endl;
+    cout << "Which organ in the human body is responsible for pumping blood?" << endl;
     cout << "====================================" << endl;
     cout << "Choose an answer: " << endl;
-    cout << "A) Struggle for an independent Bulgarian church" << endl;
-    cout << "B) Creation of a Bulgarian national identity" << endl;
-    cout << "C) Subordination to the Greek Patriarchate" << endl;
-    cout << "D) Development of literature and education" << endl;
+    cout << "A) Brain" << endl;
+    cout << "B) Lungs" << endl;
+    cout << "C) Heart" << endl;
+    cout << "D) Kidney" << endl;
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
@@ -47,13 +47,13 @@ void question2Biology()
 
 void question3Biology()
 {
-    cout << "What are the main periods of the Bulgarian Revival according to the text?" << endl;
+    cout << "Which gas do plants absorb from the atmosphere for photosynthesis?" << endl;
     cout << "====================================" << endl;
     cout << "Choose an answer: " << endl;
-    cout << "A) Two periods – early and late Revival" << endl;
-    cout << "B) Three periods – early, mature, and late Revival" << endl;
-    cout << "C) Only one period, which continues until the Liberation" << endl;
-    cout << "D) Four periods – medieval, early, mature, and late Revival" << endl;
+    cout << "A) Oxygen" << endl;
+    cout << "B) Carbon Dioxide" << endl;
+    cout << "C) Nitrogen" << endl;
+    cout << "D) Hydrogen" << endl;
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
@@ -66,13 +66,13 @@ void question3Biology()
 
 void question4Biology()
 {
-    cout << "Which event marks the end of the Bulgarian Revival?" << endl;
+    cout << "What is the function of red blood cells?" << endl;
     cout << "====================================" << endl;
     cout << "Choose an answer: " << endl;
-    cout << "A) The publication of \"Slavonic-Bulgarian History\"" << endl;
-    cout << "B) The Liberation of Bulgaria in 1878" << endl;
-    cout << "C) The beginning of the Crimean War" << endl;
-    cout << "D) The proclamation of the Bulgarian Exarchate" << endl;
+    cout << "A) Fight infections" << endl;
+    cout << "B) Carry oxygen" << endl;
+    cout << "C) Digest food" << endl;
+    cout << "D) Produce hormones" << endl;
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
@@ -85,13 +85,13 @@ void question4Biology()
 
 void question5Biology()
 {
-    cout << "What is the main role of literature during the Bulgarian Revival?" << endl;
+    cout << "Which of the following is a vertebrate?" << endl;
     cout << "====================================" << endl;
     cout << "Choose an answer: " << endl;
-    cout << "A) To maintain religious faith" << endl;
-    cout << "B) To entertain readers with fictional works" << endl;
-    cout << "C) To form national consciousness and fighting spirit" << endl;
-    cout << "D) To spread myths and legends" << endl;
+    cout << "A) Earthworm" << endl;
+    cout << "B) Jellyfish" << endl;
+    cout << "C) Frog" << endl;
+    cout << "D) Spider" << endl;
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
@@ -104,16 +104,16 @@ void question5Biology()
 
 void question6Biology()
 {
-    cout << "What is the connection between the Bulgarian Revival and the European Enlightenment?" << endl;
+    cout << "What part of the plant absorbs water and nutrients from the soil?" << endl;
     cout << "====================================" << endl;
     cout << "Choose an answer: " << endl;
-    cout << "A) The Bulgarian Revival entirely copies the ideas of the Enlightenment" << endl;
-    cout << "B) The two movements are independent of each other" << endl;
-    cout << "C) The ideas of the Enlightenment stimulate the development of the Revival" << endl;
-    cout << "D) The Enlightenment has no influence on the Bulgarian Revival" << endl;
+    cout << "A) Leaves" << endl;
+    cout << "B) Flowers" << endl;
+    cout << "C) Stems" << endl;
+    cout << "D) Roots" << endl;
     string answer;
     cin >> answer;
-    if (answer == "C" || answer == "c") {
+    if (answer == "D" || answer == "d") {
         cout << "Correct answer :)";
     }
     else {
@@ -123,13 +123,13 @@ void question6Biology()
 
 void question7Biology()
 {
-    cout << "Which of the following personalities is not associated with the Bulgarian Revival?" << endl;
+    cout << "Which type of blood vessel carries blood away from the heart?" << endl;
     cout << "====================================" << endl;
     cout << "Choose an answer: " << endl;
-    cout << "A) Georgi Rakovski" << endl;
-    cout << "B) Paisiy Hilendarski" << endl;
-    cout << "C) Elin Pelin" << endl;
-    cout << "D) Lyuben Karavelov" << endl;
+    cout << "A) Veins" << endl;
+    cout << "B) Capillaries" << endl;
+    cout << "C) Arteries" << endl;
+    cout << "D) Nerves" << endl;
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
@@ -142,16 +142,16 @@ void question7Biology()
 
 void question8Biology()
 {
-    cout << "What is the main contribution of Paisiy Hilendarski?" << endl;
+    cout << "Which organ in the human body is responsible for filtering waste from the blood?" << endl;
     cout << "====================================" << endl;
     cout << "Choose an answer: " << endl;
-    cout << "A) Organizing national liberation struggles" << endl;
-    cout << "B) Creating Bulgarian schools" << endl;
-    cout << "C) Writing \"Slavonic-Bulgarian History\"" << endl;
-    cout << "D) Political activity in Russia" << endl;
+    cout << "A) Liver" << endl;
+    cout << "B) Kidney" << endl;
+    cout << "C) Stomach" << endl;
+    cout << "D) Lungs" << endl;
     string answer;
     cin >> answer;
-    if (answer == "C" || answer == "c") {
+    if (answer == "B" || answer == "b") {
         cout << "Correct answer :)";
     }
     else {
@@ -161,13 +161,13 @@ void question8Biology()
 
 void question9Biology()
 {
-    cout << "What is the main characteristic of Revival literature?" << endl;
+    cout << "What is the main function of the human skeleton?" << endl;
     cout << "====================================" << endl;
     cout << "Choose an answer: " << endl;
-    cout << "A) It is completely independent of folklore" << endl;
-    cout << "B) It reflects the struggle for national consciousness and freedom" << endl;
-    cout << "C) It entirely follows Western European literary models" << endl;
-    cout << "D) It consists only of religious texts" << endl;
+    cout << "A) Producing hormones" << endl;
+    cout << "B) Supporting the body" << endl;
+    cout << "C) Producing oxygen" << endl;
+    cout << "D) Digesting food" << endl;
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
@@ -180,13 +180,204 @@ void question9Biology()
 
 void question10Biology()
 {
-    cout << "What is the role of \"Slavonic-Bulgarian History\" for the Bulgarian Revival?" << endl;
+    cout << "What type of reproduction requires only one parent?" << endl;
     cout << "====================================" << endl;
     cout << "Choose an answer: " << endl;
-    cout << "A) It describes the medieval wars of Bulgaria" << endl;
-    cout << "B) It stimulates national consciousness and pride" << endl;
-    cout << "C) It develops modern philosophical ideas" << endl;
-    cout << "D) It proves the superiority of Western European culture" << endl;
+    cout << "A) Sexual reproduction" << endl;
+    cout << "B) Asexual reproduction" << endl;
+    cout << "C) Pollination" << endl;
+    cout << "D) Cloning" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "B" || answer == "b") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+
+void question11Biology()
+{
+    cout << "Which organelle is responsible for energy production in a cell?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) Nucleus" << endl;
+    cout << "B) Ribosome" << endl;
+    cout << "C) Mitochondrion" << endl;
+    cout << "D) Golgi apparatus" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "C" || answer == "c") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+void question12Biology()
+{
+    cout << "What is the main function of red blood cells?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) To fight infections" << endl;
+    cout << "B) To transport oxygen" << endl;
+    cout << "C) To produce enzymes" << endl;
+    cout << "D) To digest food" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "B" || answer == "b") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+void question13Biology()
+{
+    cout << "Which gas do plants absorb from the atmosphere during photosynthesis?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) Oxygen" << endl;
+    cout << "B) Carbon dioxide" << endl;
+    cout << "C) Nitrogen" << endl;
+    cout << "D) Hydrogen" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "B" || answer == "b") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+void question14Biology()
+{
+    cout << "What is the basic unit of life?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) Atom" << endl;
+    cout << "B) Molecule" << endl;
+    cout << "C) Cell" << endl;
+    cout << "D) Tissue" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "C" || answer == "c") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+void question15Biology()
+{
+    cout << "Which part of the human body produces insulin?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) Liver" << endl;
+    cout << "B) Pancreas" << endl;
+    cout << "C) Stomach" << endl;
+    cout << "D) Kidney" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "B" || answer == "b") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+void question16Biology()
+{
+    cout << "Which type of reproduction involves only one parent?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) Sexual reproduction" << endl;
+    cout << "B) Asexual reproduction" << endl;
+    cout << "C) Pollination" << endl;
+    cout << "D) Crossbreeding" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "B" || answer == "b") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+void question17Biology()
+{
+    cout << "What is the function of the human skeletal system?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) Digestion" << endl;
+    cout << "B) Blood circulation" << endl;
+    cout << "C) Support and protection" << endl;
+    cout << "D) Excretion" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "C" || answer == "c") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+void question18Biology()
+{
+    cout << "What is the largest organ in the human body?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) Heart" << endl;
+    cout << "B) Liver" << endl;
+    cout << "C) Skin" << endl;
+    cout << "D) Lungs" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "C" || answer == "c") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+void question19Biology()
+{
+    cout << "Which of the following is a type of vertebrate?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) Insects" << endl;
+    cout << "B) Amphibians" << endl;
+    cout << "C) Mollusks" << endl;
+    cout << "D) Arachnids" << endl;
+    string answer;
+    cin >> answer;
+    if (answer == "B" || answer == "b") {
+        cout << "Correct answer :)";
+    }
+    else {
+        cout << "Wrong answer :(";
+    }
+}
+
+void question20Biology()
+{
+    cout << "What is the process by which green plants make their own food?" << endl;
+    cout << "====================================" << endl;
+    cout << "Choose an answer: " << endl;
+    cout << "A) Respiration" << endl;
+    cout << "B) Photosynthesis" << endl;
+    cout << "C) Fermentation" << endl;
+    cout << "D) Digestion" << endl;
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
