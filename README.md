@@ -8,7 +8,7 @@
 
 
 ## About us 👋
-Brain picker is a program with tests in Bulgarian language and literature, history, and biology to test knowledge.
+Brain picker is a program with tests in Bulgarian language and literature, history, and biology to test your knowledge.
 
 ## Our Coders
 - [@VNPetkov - Scrum Trainer](https://www.github.com/V5kov8)
@@ -21,5 +21,8 @@ Brain picker is a program with tests in Bulgarian language and literature, histo
 </p>
 
 ## Usage
-Instructions on how to use the software, including installation steps, configuration, and examples.
+When you enter brain picker you are greeted with three options:
+- 1  Start: Starts the program (press 1).
+- 2  Instructions: Teaches you how to use the program (press 2).
+- 3  Exit: you leave the program (press 3)
 
