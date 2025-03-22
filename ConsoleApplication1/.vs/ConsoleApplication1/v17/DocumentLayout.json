@@ -3,40 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questGen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\questGen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questGenBiology.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\questGenBiology.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questGenHistory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\questGenHistory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questFunct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\questFunct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questFunctBiology.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\questFunctBiology.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questGen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\questGen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questFunctHistory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\questFunctHistory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questFunctBiology.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\questFunctBiology.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vikto\\AppData\\Local\\Temp\\i0wohkmd..cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vikto\\AppData\\Local\\Temp\\1izrwrob..cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questGenHistory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\questGenHistory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questFunct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAE6B78F-3D57-4522-AD85-5A63CCE1DE13}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\questFunct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +52,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
@@ -56,11 +62,10 @@
               "RelativeDocumentMoniker": "ConsoleApplication1\\main.cpp",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\main.cpp",
               "RelativeToolTip": "ConsoleApplication1\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-10T16:12:14.504Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -80,72 +85,97 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "i0wohkmd..cpp",
+              "DocumentMoniker": "C:\\Users\\vikto\\AppData\\Local\\Temp\\i0wohkmd..cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\i0wohkmd..cpp",
+              "ToolTip": "C:\\Users\\vikto\\AppData\\Local\\Temp\\i0wohkmd..cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\i0wohkmd..cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T10:07:55.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "1izrwrob..cpp",
+              "DocumentMoniker": "C:\\Users\\vikto\\AppData\\Local\\Temp\\1izrwrob..cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\1izrwrob..cpp",
+              "ToolTip": "C:\\Users\\vikto\\AppData\\Local\\Temp\\1izrwrob..cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\1izrwrob..cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T10:07:55.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "questFunctHistory.cpp",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questFunctHistory.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1\\questFunctHistory.cpp",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questFunctHistory.cpp",
               "RelativeToolTip": "ConsoleApplication1\\questFunctHistory.cpp",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAAALYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAGcBAAAAAAAAAAAIwIUBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-16T15:14:26.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "questFunctBiology.cpp",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questFunctBiology.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1\\questFunctBiology.cpp",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questFunctBiology.cpp",
               "RelativeToolTip": "ConsoleApplication1\\questFunctBiology.cpp",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-16T15:14:16.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "questGenHistory.cpp",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questGenHistory.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1\\questGenHistory.cpp",
-              "ToolTip": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questGenHistory.cpp",
-              "RelativeToolTip": "ConsoleApplication1\\questGenHistory.cpp",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAwDoAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questGenHistory.cpp*",
+              "RelativeToolTip": "ConsoleApplication1\\questGenHistory.cpp*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-16T15:13:54.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T15:13:54.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "questGenBiology.cpp",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questGenBiology.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1\\questGenBiology.cpp",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questGenBiology.cpp",
               "RelativeToolTip": "ConsoleApplication1\\questGenBiology.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-16T15:13:28.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "questGen.cpp",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questGen.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1\\questGen.cpp",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questGen.cpp",
               "RelativeToolTip": "ConsoleApplication1\\questGen.cpp",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAIwFoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-13T18:58:09.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "questFunct.cpp",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\questFunct.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1\\questFunct.cpp",
@@ -153,34 +183,32 @@
               "RelativeToolTip": "ConsoleApplication1\\questFunct.cpp",
               "ViewState": "AgIAAL0AAAAAAAAAAAAAAEIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-13T18:55:03.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T18:55:03.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "header.h",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\header.h",
               "RelativeDocumentMoniker": "ConsoleApplication1\\header.h",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\header.h",
               "RelativeToolTip": "ConsoleApplication1\\header.h",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAIBJwEEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-14T17:33:59.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "mainMenu.cpp",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\mainMenu.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1\\mainMenu.cpp",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\sprint-eschool-code-exe\\ConsoleApplication2\\ConsoleApplication1\\ConsoleApplication1\\mainMenu.cpp",
               "RelativeToolTip": "ConsoleApplication1\\mainMenu.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-14T15:44:24.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T15:44:24.53Z"
             }
           ]
         }

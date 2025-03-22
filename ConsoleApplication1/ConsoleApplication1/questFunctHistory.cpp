@@ -7,7 +7,7 @@
 
 using namespace std;
 
-void question1History() {
+int question1History() {
     cout << "Which event marked the beginning of the Bulgarian Revival?" << endl;
     cout << "====================================" << endl;
     cout << "A) The establishment of the First Bulgarian Empire" << endl;
@@ -17,14 +17,16 @@ void question1History() {
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question2History() {
+int question2History() {
     cout << "Who was the ruler of Bulgaria when it became a kingdom again in 1908?" << endl;
     cout << "====================================" << endl;
     cout << "A) Tsar Ferdinand I" << endl;
@@ -34,14 +36,16 @@ void question2History() {
     string answer;
     cin >> answer;
     if (answer == "A" || answer == "a") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question3History() {
+int question3History() {
     cout << "What was the main goal of the April Uprising of 1876?" << endl;
     cout << "====================================" << endl;
     cout << "A) To overthrow the Ottoman Empire" << endl;
@@ -51,14 +55,16 @@ void question3History() {
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question4History() {
+int question4History() {
     cout << "Which treaty officially ended the Russo-Turkish War of 1877-1878 and led to Bulgaria’s liberation?" << endl;
     cout << "====================================" << endl;
     cout << "A) Treaty of Berlin" << endl;
@@ -68,14 +74,16 @@ void question4History() {
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question5History() {
+int question5History() {
     cout << "Who was the leader of the Bulgarian volunteers (Opalchentsi) during the Russo-Turkish War?" << endl;
     cout << "====================================" << endl;
     cout << "A) Vasil Levski" << endl;
@@ -85,14 +93,16 @@ void question5History() {
     string answer;
     cin >> answer;
     if (answer == "D" || answer == "d") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question6History() {
+int question6History() {
     cout << "Which war led to Bulgaria losing most of its territory gained in the Balkan Wars?" << endl;
     cout << "====================================" << endl;
     cout << "A) First Balkan War" << endl;
@@ -102,14 +112,16 @@ void question6History() {
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question7History() {
+int question7History() {
     cout << "When did Bulgaria officially join the European Union?" << endl;
     cout << "====================================" << endl;
     cout << "A) 2004" << endl;
@@ -119,14 +131,16 @@ void question7History() {
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question8History() {
+int question8History() {
     cout << "Which event triggered the start of World War I?" << endl;
     cout << "====================================" << endl;
     cout << "A) The assassination of Archduke Franz Ferdinand" << endl;
@@ -136,14 +150,16 @@ void question8History() {
     string answer;
     cin >> answer;
     if (answer == "A" || answer == "a") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question9History() {
+int question9History() {
     cout << "Who was the first Bulgarian ruler after the country's liberation in 1878?" << endl;
     cout << "====================================" << endl;
     cout << "A) Tsar Simeon I" << endl;
@@ -153,14 +169,16 @@ void question9History() {
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question10History() {
+int question10History() {
     cout << "What was the main goal of the Bulgarian National Revival?" << endl;
     cout << "====================================" << endl;
     cout << "A) To modernize agriculture" << endl;
@@ -170,14 +188,16 @@ void question10History() {
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question11History() {
+int question11History() {
     cout << "Which Bulgarian revolutionary is known as 'The Apostle of Freedom'?" << endl;
     cout << "====================================" << endl;
     cout << "A) Hristo Botev" << endl;
@@ -187,14 +207,16 @@ void question11History() {
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question12History() {
+int question12History() {
     cout << "What was the capital of Bulgaria during the First Bulgarian Empire?" << endl;
     cout << "====================================" << endl;
     cout << "A) Sofia" << endl;
@@ -204,14 +226,16 @@ void question12History() {
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question13History() {
+int question13History() {
     cout << "Who was the first Bulgarian king (Tsar) after independence in 1908?" << endl;
     cout << "====================================" << endl;
     cout << "A) Boris III" << endl;
@@ -221,14 +245,16 @@ void question13History() {
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question14History() {
+int question14History() {
     cout << "Which Bulgarian leader negotiated the Treaty of Neuilly after World War I?" << endl;
     cout << "====================================" << endl;
     cout << "A) Tsar Ferdinand I" << endl;
@@ -238,14 +264,16 @@ void question14History() {
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question15History() {
+int question15History() {
     cout << "Which battle in 1014 resulted in the defeat of the Bulgarian army by the Byzantines?" << endl;
     cout << "====================================" << endl;
     cout << "A) Battle of Pliska" << endl;
@@ -255,14 +283,16 @@ void question15History() {
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question16History() {
+int question16History() {
     cout << "What was the Tarnovo Constitution?" << endl;
     cout << "====================================" << endl;
     cout << "A) The first Bulgarian Constitution" << endl;
@@ -272,14 +302,16 @@ void question16History() {
     string answer;
     cin >> answer;
     if (answer == "A" || answer == "a") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question17History() {
+int question17History() {
     cout << "Which war led to Bulgaria regaining Southern Dobrudzha in 1940?" << endl;
     cout << "====================================" << endl;
     cout << "A) World War I" << endl;
@@ -289,14 +321,16 @@ void question17History() {
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question18History() {
+int question18History() {
     cout << "Who was the leader of Bulgaria during World War II?" << endl;
     cout << "====================================" << endl;
     cout << "A) Tsar Boris III" << endl;
@@ -306,14 +340,16 @@ void question18History() {
     string answer;
     cin >> answer;
     if (answer == "A" || answer == "a") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question19History() {
+int question19History() {
     cout << "Which Bulgarian ruler led the country to its greatest territorial expansion in the Middle Ages?" << endl;
     cout << "====================================" << endl;
     cout << "A) Tsar Boris I" << endl;
@@ -323,14 +359,16 @@ void question19History() {
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question20History() {
+int question20History() {
     cout << "When was Bulgaria officially liberated from Ottoman rule?" << endl;
     cout << "====================================" << endl;
     cout << "A) 1876" << endl;
@@ -340,9 +378,12 @@ void question20History() {
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
+

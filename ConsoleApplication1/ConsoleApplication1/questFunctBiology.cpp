@@ -7,7 +7,7 @@
 
 using namespace std;
 
-void question1Biology()
+int question1Biology()
 {
     cout << "What is the basic unit of life?" << endl;
     cout << "====================================" << endl;
@@ -19,14 +19,16 @@ void question1Biology()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question2Biology()
+int question2Biology()
 {
     cout << "Which organ in the human body is responsible for pumping blood?" << endl;
     cout << "====================================" << endl;
@@ -38,14 +40,16 @@ void question2Biology()
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question3Biology()
+int question3Biology()
 {
     cout << "Which gas do plants absorb from the atmosphere for photosynthesis?" << endl;
     cout << "====================================" << endl;
@@ -57,14 +61,16 @@ void question3Biology()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question4Biology()
+int question4Biology()
 {
     cout << "What is the function of red blood cells?" << endl;
     cout << "====================================" << endl;
@@ -76,14 +82,16 @@ void question4Biology()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question5Biology()
+int question5Biology()
 {
     cout << "Which of the following is a vertebrate?" << endl;
     cout << "====================================" << endl;
@@ -95,14 +103,16 @@ void question5Biology()
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question6Biology()
+int question6Biology()
 {
     cout << "What part of the plant absorbs water and nutrients from the soil?" << endl;
     cout << "====================================" << endl;
@@ -114,14 +124,16 @@ void question6Biology()
     string answer;
     cin >> answer;
     if (answer == "D" || answer == "d") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question7Biology()
+int question7Biology()
 {
     cout << "Which type of blood vessel carries blood away from the heart?" << endl;
     cout << "====================================" << endl;
@@ -133,14 +145,16 @@ void question7Biology()
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question8Biology()
+int question8Biology()
 {
     cout << "Which organ in the human body is responsible for filtering waste from the blood?" << endl;
     cout << "====================================" << endl;
@@ -152,14 +166,16 @@ void question8Biology()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question9Biology()
+int question9Biology()
 {
     cout << "What is the main function of the human skeleton?" << endl;
     cout << "====================================" << endl;
@@ -171,14 +187,16 @@ void question9Biology()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question10Biology()
+int question10Biology()
 {
     cout << "What type of reproduction requires only one parent?" << endl;
     cout << "====================================" << endl;
@@ -190,15 +208,16 @@ void question10Biology()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-
-void question11Biology()
+int question11Biology()
 {
     cout << "Which organelle is responsible for energy production in a cell?" << endl;
     cout << "====================================" << endl;
@@ -210,14 +229,16 @@ void question11Biology()
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question12Biology()
+int question12Biology()
 {
     cout << "What is the main function of red blood cells?" << endl;
     cout << "====================================" << endl;
@@ -229,14 +250,16 @@ void question12Biology()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question13Biology()
+int question13Biology()
 {
     cout << "Which gas do plants absorb from the atmosphere during photosynthesis?" << endl;
     cout << "====================================" << endl;
@@ -248,14 +271,16 @@ void question13Biology()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question14Biology()
+int question14Biology()
 {
     cout << "What is the basic unit of life?" << endl;
     cout << "====================================" << endl;
@@ -267,14 +292,16 @@ void question14Biology()
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question15Biology()
+int question15Biology()
 {
     cout << "Which part of the human body produces insulin?" << endl;
     cout << "====================================" << endl;
@@ -286,14 +313,16 @@ void question15Biology()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question16Biology()
+int question16Biology()
 {
     cout << "Which type of reproduction involves only one parent?" << endl;
     cout << "====================================" << endl;
@@ -305,14 +334,16 @@ void question16Biology()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question17Biology()
+int question17Biology()
 {
     cout << "What is the function of the human skeletal system?" << endl;
     cout << "====================================" << endl;
@@ -324,14 +355,16 @@ void question17Biology()
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question18Biology()
+int question18Biology()
 {
     cout << "What is the largest organ in the human body?" << endl;
     cout << "====================================" << endl;
@@ -343,14 +376,16 @@ void question18Biology()
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question19Biology()
+int question19Biology()
 {
     cout << "Which of the following is a type of vertebrate?" << endl;
     cout << "====================================" << endl;
@@ -362,14 +397,16 @@ void question19Biology()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question20Biology()
+int question20Biology()
 {
     cout << "What is the process by which green plants make their own food?" << endl;
     cout << "====================================" << endl;
@@ -381,9 +418,12 @@ void question20Biology()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
+

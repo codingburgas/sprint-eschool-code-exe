@@ -1,16 +1,15 @@
 ﻿  main.cpp
   mainMenu.cpp
+  questFunct.cpp
   questFunctBiology.cpp
   questFunctHistory.cpp
   questGen.cpp
-C:\Users\vikto\source\repos\sprint-eschool-code-exe\ConsoleApplication2\ConsoleApplication1\ConsoleApplication1\questGen.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  questFunct.cpp
+C:\Users\vikto\source\repos\sprint-eschool-code-exe\ConsoleApplication2\ConsoleApplication1\ConsoleApplication1\questGen.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   questGenBiology.cpp
-C:\Users\vikto\source\repos\sprint-eschool-code-exe\ConsoleApplication2\ConsoleApplication1\ConsoleApplication1\questGenBiology.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vikto\source\repos\sprint-eschool-code-exe\ConsoleApplication2\ConsoleApplication1\ConsoleApplication1\questGenBiology.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   questGenHistory.cpp
-C:\Users\vikto\source\repos\sprint-eschool-code-exe\ConsoleApplication2\ConsoleApplication1\ConsoleApplication1\questGenHistory.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vikto\source\repos\sprint-eschool-code-exe\ConsoleApplication2\ConsoleApplication1\ConsoleApplication1\questGenHistory.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Generating Code...
-  LINK : C:\Users\vikto\source\repos\sprint-eschool-code-exe\ConsoleApplication2\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe not found or not built by the last incremental link; performing full link
   ConsoleApplication1.vcxproj -> C:\Users\vikto\source\repos\sprint-eschool-code-exe\ConsoleApplication2\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.

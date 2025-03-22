@@ -7,7 +7,7 @@
 
 using namespace std;
 
-void question1()
+int question1()
 {
     cout << "What is the main reason for the beginning of the Bulgarian Revival?" << endl;
     cout << "====================================" << endl;
@@ -17,16 +17,18 @@ void question1()
     cout << "C) Expansion of Greek influence" << endl;
     cout << "D) Foreign intervention from Western countries" << endl;
     string answer;
-	cin >> answer;
+    cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question2()
+int question2()
 {
     cout << "Which of the following is not a characteristic feature of the Bulgarian Revival?" << endl;
     cout << "====================================" << endl;
@@ -38,14 +40,16 @@ void question2()
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question3()
+int question3()
 {
     cout << "What are the main periods of the Bulgarian Revival according to the text?" << endl;
     cout << "====================================" << endl;
@@ -57,14 +61,16 @@ void question3()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question4()
+int question4()
 {
     cout << "Which event marks the end of the Bulgarian Revival?" << endl;
     cout << "====================================" << endl;
@@ -76,14 +82,16 @@ void question4()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question5()
+int question5()
 {
     cout << "What is the main role of literature during the Bulgarian Revival?" << endl;
     cout << "====================================" << endl;
@@ -95,14 +103,16 @@ void question5()
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question6()
+int question6()
 {
     cout << "What is the connection between the Bulgarian Revival and the European Enlightenment?" << endl;
     cout << "====================================" << endl;
@@ -114,14 +124,16 @@ void question6()
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question7()
+int question7()
 {
     cout << "Which of the following personalities is not associated with the Bulgarian Revival?" << endl;
     cout << "====================================" << endl;
@@ -133,14 +145,16 @@ void question7()
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question8()
+int question8()
 {
     cout << "What is the main contribution of Paisiy Hilendarski?" << endl;
     cout << "====================================" << endl;
@@ -152,14 +166,16 @@ void question8()
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question9()
+int question9()
 {
     cout << "What is the main characteristic of Revival literature?" << endl;
     cout << "====================================" << endl;
@@ -171,14 +187,16 @@ void question9()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question10()
+int question10()
 {
     cout << "What is the role of \"Slavonic-Bulgarian History\" for the Bulgarian Revival?" << endl;
     cout << "====================================" << endl;
@@ -190,14 +208,16 @@ void question10()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question11()
+int question11()
 {
     cout << "Who is the author of the novel \"Under the Yoke\"?" << endl;
     cout << "====================================" << endl;
@@ -209,14 +229,16 @@ void question11()
     string answer;
     cin >> answer;
     if (answer == "A" || answer == "a") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question12()
+int question12()
 {
     cout << "Which literary work is considered the first Bulgarian novel?" << endl;
     cout << "====================================" << endl;
@@ -228,14 +250,16 @@ void question12()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question13()
+int question13()
 {
     cout << "Which Bulgarian poet wrote \"My Prayer\"?" << endl;
     cout << "====================================" << endl;
@@ -247,14 +271,16 @@ void question13()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question14()
+int question14()
 {
     cout << "Who wrote the satirical book \"Bay Ganyo\"?" << endl;
     cout << "====================================" << endl;
@@ -266,14 +292,16 @@ void question14()
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question15()
+int question15()
 {
     cout << "Which work by Peyo Yavorov is dedicated to his beloved Lora Karavelova?" << endl;
     cout << "====================================" << endl;
@@ -285,14 +313,16 @@ void question15()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question16()
+int question16()
 {
     cout << "What is the genre of \"Nemili-Nedragi\" by Ivan Vazov?" << endl;
     cout << "====================================" << endl;
@@ -304,14 +334,16 @@ void question16()
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question17()
+int question17()
 {
     cout << "What is the main theme of Hristo Botev's poetry?" << endl;
     cout << "====================================" << endl;
@@ -323,14 +355,16 @@ void question17()
     string answer;
     cin >> answer;
     if (answer == "B" || answer == "b") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question18()
+int question18()
 {
     cout << "Which of the following is a characteristic of the Bulgarian Revival language?" << endl;
     cout << "====================================" << endl;
@@ -342,14 +376,16 @@ void question18()
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question19()
+int question19()
 {
     cout << "Who wrote the short story collection \"Pizho and Penda\"?" << endl;
     cout << "====================================" << endl;
@@ -361,14 +397,16 @@ void question19()
     string answer;
     cin >> answer;
     if (answer == "A" || answer == "a") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
 
-void question20()
+int question20()
 {
     cout << "Which of the following statements about \"Under the Yoke\" is true?" << endl;
     cout << "====================================" << endl;
@@ -380,9 +418,13 @@ void question20()
     string answer;
     cin >> answer;
     if (answer == "C" || answer == "c") {
-        cout << "Correct answer :)";
+        cout << "Correct answer :)" << endl;
+        return 1;
     }
     else {
-        cout << "Wrong answer :(";
+        cout << "Wrong answer :(" << endl;
+        return 0;
     }
 }
+
+
