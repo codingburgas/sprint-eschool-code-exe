@@ -1,4 +1,4 @@
-# CODE.exe
+### CODE.exe
 
 ## Table of Contents
 - [About us](#about-us)
@@ -8,7 +8,7 @@
 
 
 ## About us 👋
-Brain picker is a program with tests in Bulgarian language and literature, history, and biology to test your knowledge.
+Brain picker is a program build by Code.exe. It consists of tests in Bulgarian language and literature, history, and biology to test your knowledge.
 
 ## Our Coders
 - [@VNPetkov - Scrum Trainer](https://www.github.com/V5kov8)
@@ -19,6 +19,13 @@ Brain picker is a program with tests in Bulgarian language and literature, histo
 <p align="center">
   <img src="image.jfif" alt="Logo" width="200" style="border: 2px solid black; padding: 10px;"/>
 </p>
+## 🔗Installation🔗
+
+Install out project from here:
+
+```bash
+(https://github.com/codingburgas/sprint-eschool-code-exe.git)
+```
 
 ## Usage
 When you enter brain picker you are greeted with three options:
