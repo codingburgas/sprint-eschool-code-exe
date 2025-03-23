@@ -14,7 +14,7 @@ Brain picker is a program build by Code.exe. It consists of tests in Bulgarian l
 - [@VNPetkov - Scrum Trainer](https://www.github.com/V5kov8): Readme, Presentations, Questions, Main Menu.
 - [@GSDobrev - Back-end Developer](https://www.github.com/GSDobrev23): Helped with the code.
 - [@VANikov - Front-end Developer](https://www.github.com/VANikov23): Made most of the code.
-- [@JSMuhtar - Designer](https://www.github.com/JSMuhtar23): Logo.
+- [@DSHMMuhtar - Designer](https://www.github.com/DSHMuhtar23): Logo, Documentation.
 ## Logo
 <p align="center">
   <img src="image.jfif" alt="Logo" width="200" style="border: 2px solid black; padding: 10px;"/>
