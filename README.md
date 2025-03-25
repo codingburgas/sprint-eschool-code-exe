@@ -32,5 +32,13 @@ When you enter brain picker you are greeted with three options:
 - 1  Start: Starts the program (press 1).
 - 2  Instructions: Teaches you how to use the program (press 2).
 - 3  Exit: you leave the program (press 3)
-- After you complete a question the program gives you another one one and that continuous until you complete all 20 of them. After that the program checks your test and goves you a result.
+- After you complete a question the program gives you another one one and that continuous until you complete all 20 of them. After that the program checks your test and goves you a result. You can type the questions in small and Cappital letters (in English).
+- I hope you found this information helpful.
+ ## Documentation 
+  -Our presentation:
+  [Powerpoint](https://drive.google.com/file/d/1d8MyZLMb2j0sep3fX42zmRKV8mobEJa2/view?usp=drive_link)
+  -And our documentation:
+  
+  
+  
 
