@@ -11,7 +11,7 @@
 Brain picker is a program build by Code.exe. It consists of tests in Bulgarian language and literature, history, and biology to test your knowledge.
 
 ## Our Coders
-- [@VNPetkov - Scrum Trainer](https://www.github.com/V5kov8): Readme, Presentations, Questions, Main Menu.
+- [@VNPetkov - Scrum Trainer](https://www.github.com/V5kov8): Readme, Presentation, Questions, Main Menu.
 - [@GSDobrev - Back-end Developer](https://www.github.com/GSDobrev23): Helped with the code.
 - [@VANikov - Front-end Developer](https://www.github.com/VANikov23): Made most of the code.
 - [@DSHMMuhtar - Designer](https://www.github.com/DSHMuhtar23): Logo, Documentation.
@@ -38,6 +38,7 @@ When you enter brain picker you are greeted with three options:
   -Our presentation:
   [Powerpoint](https://drive.google.com/file/d/1d8MyZLMb2j0sep3fX42zmRKV8mobEJa2/view?usp=drive_link)
   -And our documentation:
+  [Word](https://docs.google.com/document/d/1_5BgqCXh_E19x_VCnnRsyABhkrGDS32l/edit?usp=drive_link&ouid=100551183188829416884&rtpof=true&sd=true)
   
   
   
