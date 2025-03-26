@@ -27,7 +27,7 @@ void mainMenu() {
     {
     case 1:
         int quizChoice;
-        cout << "Pick a quiz subject." << endl;
+        cout << "Pick a quiz subject:" << endl;
 		cout << "1. Bulgarian and Literature" << endl;
         cout << "2. Biology" << endl;
         cout << "3. History" << endl;
@@ -54,14 +54,22 @@ void mainMenu() {
         cout << "2. Type the correct answer (A, B, C, or D) and press Enter." << endl;
         cout << "3. You will receive feedback based on your answer." << endl;
         cout << "4. Try your best to answer and have fun while learning!" << endl;
-        cout << "To start the quiz, press 5: ";
+        cout << "****************************************************************" << endl;
+        cout << "To return to main menu, press 5: " << endl;
+        cout << "Exit - press 6: " << endl;
 
         int startQuizChoice;
         cin >> startQuizChoice;
 
         if (startQuizChoice == 5) {
-            cout << "Starting quiz..." << endl;
-            question_Generator();
+            cout << "Returning to the main menu..." << endl;
+            mainMenu();
+        }
+        else if (startQuizChoice == 6)
+        {
+            cout << "Thank you for playing! Exiting the quiz... Goodbye!" << endl;
+            break;
+
         }
         else {
             cout << "Invalid option. Returning to the main menu..." << endl;

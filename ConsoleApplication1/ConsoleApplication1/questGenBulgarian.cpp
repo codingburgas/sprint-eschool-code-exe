@@ -31,63 +31,83 @@ void question_Generator()
         {
         case 1:
             score += question1();
+            cout << endl;
             break;
         case 2:
             score += question2();
+            cout << endl;
             break;
         case 3:
             score += question3();
+            cout << endl;
             break;
         case 4:
             score += question4();
+            cout << endl;
             break;
         case 5:
             score += question5();
+            cout << endl;
             break;
         case 6:
             score += question6();
+            cout << endl;
             break;
         case 7:
             score += question7();
+            cout << endl;
             break;
         case 8:
             score += question8();
+            cout << endl;
             break;
         case 9:
             score += question9();
+            cout << endl;
             break;
         case 10:
             score += question10();
+            cout << endl;
             break;
         case 11:
             score += question11();
+            cout << endl;
             break;
         case 12:
             score += question12();
+            cout << endl;
             break;
         case 13:
             score += question13();
+            cout << endl;
             break;
         case 14:
             score += question14();
+            cout << endl;
             break;
         case 15:
             score += question15();
+            cout << endl;
             break;
         case 16:
             score += question16();
+            cout << endl;
             break;
         case 17:
             score += question17();
+            cout << endl;
             break;
         case 18:
             score += question18();
+            cout << endl;
             break;
         case 19:
             score += question19();
+            cout << endl;
             break;
         case 20:
             score += question20();
+            cout << endl;
             break;
         }
     }
