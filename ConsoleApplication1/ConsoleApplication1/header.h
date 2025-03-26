@@ -66,6 +66,7 @@ int question17History();
 int question18History();
 int question19History();
 int question20History();
+int askQuestion(string question, string options[], char correctAnswer);
 
 void question_Generator();
 void question_GeneratorBiology();

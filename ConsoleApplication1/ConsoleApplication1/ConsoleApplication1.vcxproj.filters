@@ -18,10 +18,10 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="questFunct.cpp">
+    <ClCompile Include="questFunctBulgarian.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="questGen.cpp">
+    <ClCompile Include="questGenBulgarian.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="mainMenu.cpp">

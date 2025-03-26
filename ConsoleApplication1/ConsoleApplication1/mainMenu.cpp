@@ -37,10 +37,10 @@ void mainMenu() {
         }
         
 		else if (quizChoice == 2) {
-			question_GeneratorBiology(); // biology questions when made
+			question_GeneratorBiology(); 
 		}
 		else if (quizChoice == 3) {
-			question_GeneratorHistory(); // history questions when made
+			question_GeneratorHistory(); 
 		}
 		else {
 			cout << "Invalid option. Returning to the main menu..." << endl;
