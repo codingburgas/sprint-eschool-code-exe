@@ -26,7 +26,7 @@ Brain picker is a program build by Code.exe. It consists of tests in Bulgarian l
 Download out project from here:
 
 ```bash
-(https://github.com/codingburgas/sprint-eschool-code-exe.git)
+https://github.com/codingburgas/sprint-eschool-code-exe.git
 ```
 
 ## Usage
