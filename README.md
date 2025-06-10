@@ -1,20 +1,23 @@
 # Scriptics
+![LOGO](https://drive.google.com/file/d/1AzFBMbNRktC9q_RH4yTVXllCU30RziGe/view?usp=drive_link)
 
 
 ## Table of Contents
 - [About us](#about-us)
 - [Our Coders](#our-coders)
 - [Usage](#usage)
+- [Used technologies](#used-technologies)
 
 
 ## About us 👋
 
 
+
 ## Our Coders
 - [@VNPetkov - Designer](https://www.github.com/V5kov8):
-- [@APPetrov - Scrum Trainer](https://www.github.com/APPetrov23): 
+- [@APPetrov - Scrum Trainer](https://www.github.com/APPetrovv): 
 - [@HNStanchev - Front-end Developer](https://www.github.com/HNStanchev):
-- [@VATenev - Back-end Developer](https://www.github.com/@VATenev23): 
+- [@VATenev - Back-end Developer](https://www.github.com/VATenev23): 
 
 
 ## Instalations
@@ -27,15 +30,11 @@ https://github.com/codingburgas/sprint-eschool-code-exe.git
 ```
 
 ## Usage
-When you enter brain picker you are greeted with three options:
-- 1  Start: Starts the program (press 1).
-- 2  Instructions: Teaches you how to use the program (press 2).
-- 3  Exit: you leave the program (press 3)
-- After you complete a question the program gives you another one one and that continuous until you complete all 20 of them. After that the program checks your test and goves you a result. You can type the questions in small and Cappital letters (in English).
-- I hope you found this information helpful.
+
+
 ## Used technologies
 
--Visual Studio2022
+-Visual Studio
 
 -Word
 
