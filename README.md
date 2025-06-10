@@ -1,9 +1,9 @@
 # Scriptics
 
+
 ## Table of Contents
 - [About us](#about-us)
 - [Our Coders](#our-coders)
-- [Logo](#logo)
 - [Usage](#usage)
 
 
@@ -13,12 +13,9 @@
 ## Our Coders
 - [@VNPetkov - Designer](https://www.github.com/V5kov8):
 - [@APPetrov - Scrum Trainer](https://www.github.com/APPetrov23): 
-- [@HNStanchev - Front-end Developer](https://www.github.com/HNStanchev23):
+- [@HNStanchev - Front-end Developer](https://www.github.com/HNStanchev):
 - [@VATenev - Back-end Developer](https://www.github.com/@VATenev23): 
-## Logo
-<p align="center">
-  <img src="image.jfif" alt="Logo" width="200" style="border: 2px solid black; padding: 10px;"/>
-</p>
+
 
 ## Instalations
 
@@ -38,7 +35,7 @@ When you enter brain picker you are greeted with three options:
 - I hope you found this information helpful.
 ## Used technologies
 
--C++
+-Visual Studio2022
 
 -Word
 
@@ -50,8 +47,6 @@ When you enter brain picker you are greeted with three options:
 
 
  ## Documentation 
-  -Our presentation:
-  [Powerpoint](https://drive.google.com/file/d/1d8MyZLMb2j0sep3fX42zmRKV8mobEJa2/view?usp=drive_link)
 
   
   -And our documentation:
