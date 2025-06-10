@@ -13,8 +13,8 @@
 ## Our Coders
 - [@VNPetkov - Designer](https://www.github.com/V5kov8):
 - [@APPetrov - Scrum Trainer](https://www.github.com/APPetrov): 
-- [@HNStanchev - Front-end Developer](https://www.github.com/VANikov23):
-- [@VATenev - Back-end Developer](https://www.github.com/DSHMuhtar23): 
+- [@HNStanchev - Front-end Developer](https://www.github.com/HNStanchev):
+- [@VATenev - Back-end Developer](https://www.github.com/@VATenev): 
 ## Logo
 <p align="center">
   <img src="image.jfif" alt="Logo" width="200" style="border: 2px solid black; padding: 10px;"/>
